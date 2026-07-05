@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi, I'm Harsh Girase</h1>
 <h3 align="center">Computer Science & Engineering Student | Web Developer<br>
 Gujarat Technological University (GTU) | DSA Enthusiast</h3>
