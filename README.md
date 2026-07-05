@@ -37,20 +37,20 @@ Gujarat Technological University (GTU)</h3>
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshrajput28&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshrajput28&show_icons=true&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajput28&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajput28&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput28&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput28&layout=compact&theme=tokyonight&v=1" />
 </p>
 
 ## GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshrajput28&theme=onestar&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshrajput28&theme=onestar&no-frame=true&v=1" />
 </p>
 
 <p align="center">
