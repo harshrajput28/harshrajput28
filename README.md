@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Harsh Girase</h1>
 <h3 align="center">Computer Science & Engineering Student | Web Developer<br>
-Gujarat Technological University (GTU) | DSA Enthusiast</h3>
+Gujarat Technological University (GTU)</h3>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?lines=Computer+Science+%26+Engineering+Student;Building+Modern+Web+Apps;Cloud+Solutions+Enthusiast;Software+Developer&font=Fira+Code&center=true&color=00F7FF&width=600&height=50](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+%26+Engineering+Student;Building+Modern+Web+Apps;Cloud+Solutions+Enthusiast;Software+Developer&font=Fira+Code&center=true&color=00F7FF&width=600&height=50)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Building+Modern+Web+Apps;Cloud+Solutions+Enthusiast;Software+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="[https://github.com/yusufyusie/yusufyusie/raw/main/line.gif](https://github.com/yusufyusie/yusufyusie/raw/main/line.gif)"/>
+  <img src="https://raw.githubusercontent.com/yusufyusie/yusufyusie/main/line.gif" alt="line" />
 </p>
 
 ## About Me
@@ -15,16 +15,12 @@ Gujarat Technological University (GTU) | DSA Enthusiast</h3>
 - Learning DSA & Full Stack Dev
 - Passionate about transforming complex problems into clean, scalable code and delivering high-quality web applications
 - Placement prep journey ongoing
-- Instagram: @harsh_girase
 
 ## Tech Stack
 <p align="center">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" alt="Python" width="40" height="40" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)" alt="Java" width="40" height="40" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg)" alt="SQL" width="40" height="40" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)" alt="Bootstrap" width="40" height="40" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" alt="CSS3" width="40" height="40" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)" alt="Android" width="40" height="40" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,bootstrap,css,android" alt="Tech Stack" />
+  </a>
 </p>
 
 ## Featured Projects
@@ -41,24 +37,24 @@ Gujarat Technological University (GTU) | DSA Enthusiast</h3>
 
 ## GitHub Stats
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=harshrajput28&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=harshrajput28&show_icons=true&theme=tokyonight)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshrajput28&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=harshrajput28&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=harshrajput28&theme=tokyonight)"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajput28&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput28&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput28&layout=compact&theme=tokyonight)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput28&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## GitHub Trophies
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=harshrajput28&theme=onestar&no-frame=true](https://github-profile-trophy.vercel.app/?username=harshrajput28&theme=onestar&no-frame=true)"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshrajput28&theme=onestar&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="[https://github.com/yusufyusie/yusufyusie/raw/main/line.gif](https://github.com/yusufyusie/yusufyusie/raw/main/line.gif)"/>
+  <img src="https://raw.githubusercontent.com/yusufyusie/yusufyusie/main/line.gif" alt="line" />
 </p>
 
 ## Certifications
