@@ -3,11 +3,11 @@
 Gujarat Technological University (GTU)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Building+Modern+Web+Apps;Cloud+Solutions+Enthusiast;Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Building+Modern+Web+Apps;Cloud+Solutions+Enthusiast;Software+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yusufyusie/yusufyusie/main/line.gif" alt="line" />
+  <img src="https://raw.githubusercontent.com/yusufyusie/yusufyusie/main/line.gif" />
 </p>
 
 ## About Me
@@ -19,7 +19,7 @@ Gujarat Technological University (GTU)</h3>
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,bootstrap,css,android" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,bootstrap,css,android" />
   </a>
 </p>
 
@@ -37,31 +37,29 @@ Gujarat Technological University (GTU)</h3>
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshrajput28&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshrajput28&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajput28&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajput28&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput28&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput28&layout=compact&theme=tokyonight" />
 </p>
 
 ## GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshrajput28&theme=onestar&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshrajput28&theme=onestar&no-frame=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yusufyusie/yusufyusie/main/line.gif" alt="line" />
+  <img src="https://raw.githubusercontent.com/yusufyusie/yusufyusie/main/line.gif" />
 </p>
 
 ## Certifications
 - Getting Started with Generative AI - IBM
 - Mobile app development - A to Z infoway
-- Walmart USA - Advanced Software Engineering Job Simulation
-- Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation
 
 ## Achievements
 - Successfully completed the AICTE | IBM SkillsBuild Gen AI & Cloud Computing Internship
