@@ -67,6 +67,6 @@ Gujarat Technological University (GTU)</h3>
 
 ## Connect with Me
 GitHub: [github.com/harshrajput28](https://github.com/harshrajput28)
-LinkedIn: [linkedin.com/in/harsh-girase](https://www.linkedin.com/in/harsh-girase)
+LinkedIn: [linkedin.com/in/harsh-girase](www.linkedin.com/in/harsh-girase-)
 
 Keep Learning, Keep Building, Keep Growing 💻
