@@ -60,6 +60,8 @@ Gujarat Technological University (GTU)</h3>
 ## Certifications
 - Getting Started with Generative AI - IBM
 - Mobile app development - A to Z infoway
+- Walmart USA - Advanced Software Engineering Job Simulation
+- Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation
 
 ## Achievements
 - Successfully completed the AICTE | IBM SkillsBuild Gen AI & Cloud Computing Internship
@@ -67,6 +69,6 @@ Gujarat Technological University (GTU)</h3>
 
 ## Connect with Me
 GitHub: [github.com/harshrajput28](https://github.com/harshrajput28)
-LinkedIn: [linkedin.com/in/harsh-girase-](www.linkedin.com/in/harsh-girase-)
+LinkedIn: [linkedin.com/in/harsh-girase-](https://www.linkedin.com/in/harsh-girase-)
 
 Keep Learning, Keep Building, Keep Growing 💻
